@@ -1,0 +1,26 @@
+@media screen and (max-width: 760px) {
+
+    header {
+        flex-direction: column;
+    }
+
+    #title {
+        margin-top: 20px;
+    }
+
+    h1 {
+        display: inline;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    form {
+        max-width: 70%;
+    }
+}
