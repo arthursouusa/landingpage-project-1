@@ -16,6 +16,10 @@
         flex-direction: column;
     }
 
+    article {
+        margin-top: 20px;
+    }
+
     img {
         max-width: 100%;
     }
